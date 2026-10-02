@@ -8,6 +8,9 @@ Source for the studio's public site, served by GitHub Pages.
 
 ## Changelog
 
+### v1.0.2 (2026-10-02)
+- Contact is now the studio email, lioncladstudios@gmail.com (Privacy Policy and home page footer), replacing the temporary GitHub Issues link.
+
 ### v1.0.1 (2026-10-01)
 - Privacy Policy: added what Unity In-App Purchasing processes to confirm purchases (purchase history and receipts, device IDs, approximate location, diagnostics; receipt details such as email processed briefly), matching Unity's published Google Play data-safety disclosure.
 
